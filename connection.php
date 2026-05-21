@@ -5,7 +5,7 @@ if($connection){
     echo "Database connected successful";
 }
 else {
-    die "Database not connected"
+    die "Database not connected";
 }
 
 ?>
